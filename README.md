@@ -35,7 +35,7 @@
 
 ## Структура проекта
 
-diabetes_analysis/  
+diabetes_progect/  
 ├── data/  
 │ └── diabetes.csv  
 ├── notebooks/  
